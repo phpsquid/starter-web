@@ -6,7 +6,7 @@
 	Billy Johnson
 
 # THANKS
-
+	Thanks to everyone
     <name>
 
 # TECHNOLOGY COLOPHON
