@@ -10,7 +10,7 @@ Sample website with plenty of files for demos
 
 Other text
 Adding more text for rebasing example
-
+Added more changes from myfeature branch too
 ## just added
 Some stuff
 
